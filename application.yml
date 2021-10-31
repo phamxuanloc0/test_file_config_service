@@ -6,7 +6,7 @@
   "state": null,
   "propertySources": [
       {
-        "name": "https://github.com/microserviceforsubmit/cloud-config-file/blob/main/application.yml",
+        "name": "https://github.com/phamxuanloc0/test_file_config_service/blob/dd09bc12e50b9ce4989cb28a7c8579f61d154006/application.yml",
         "source": {
         "welcome": "HELLO PHAM XUAN LOC",
         "lm":"dau nao ya"
